@@ -1,0 +1,17 @@
+{
+  "name": "dt-knowledge-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://codeup.aliyun.com/6267a26c64c8a06be2d47e3e/web-pre-research/dt-knowledge-base.git",
+  "author": "Asmodeus01 <35618179+Asmodeus01@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-beta.5"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  }
+
+}
