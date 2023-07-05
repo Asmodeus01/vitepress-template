@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logo</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0FCBF6" offset="0%"></stop>
+            <stop stop-color="#058BAC" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.0250221786,0 L0,29.4545455 L10.5967857,29.4545455 C15.423072,29.4545455 19.3639582,28.0757217 22.4183749,25.3188944 L22.4183749,25.3188944 C25.4730055,22.5614519 27,18.9076203 27,14.3561692 L27,14.3561692 C27,4.78559478 21.5455928,0 10.6365645,0 L10.6365645,0 L0.0250221786,0 Z" id="path-2"></path>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#355FFD" offset="0%"></stop>
+            <stop stop-color="#0028C3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-4.000000, -8.000000)">
+            <g id="Logo" transform="translate(4.000000, 8.000000)">
+                <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="46" height="46"></rect>
+                <g id="logo" transform="translate(10.000000, 5.000000)">
+                    <polygon id="Fill-1" fill="url(#linearGradient-1)" points="0.0253549614 6.6528134 0 36 15.2608696 27.4054974 15.2608696 0"></polygon>
+                    <g id="编组" transform="translate(0.000000, 6.545455)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <g id="Clip-3"></g>
+                        <path d="M0.0250221786,0 L0,29.4545455 L10.5967857,29.4545455 C15.423072,29.4545455 19.3639582,28.0757217 22.4183749,25.3188944 L22.4183749,25.3188944 C25.4730055,22.5614519 27,18.9076203 27,14.3561692 L27,14.3561692 C27,4.78559478 21.5455928,0 10.6365645,0 L10.6365645,0 L0.0250221786,0 Z" id="Fill-2" fill="url(#linearGradient-4)" mask="url(#mask-3)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,18 +1,29 @@
 ---
-home: true
-heroImage: /logo.png
-heroText: 得塔知识库
-tagline: 得塔知识库
-actionText: 快速上手 →
-actionLink: /zh/guide/
-features:
-- title: 得塔知识库
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: 得塔知识库
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 得塔知识库
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
-  footer: MIT Licensed | Copyright © 2018-present Evan You
----
+layout: home
 
-23232
+hero:
+  name: 得塔知识库
+  text: Vite & Vue powered static site generator.
+  tagline: Lorem ipsum...
+  image:
+    src: /assets/images/logo.png
+    alt: VitePress
+  actions:
+    - theme: brand
+      text: vitePress
+      link: https://vitejs.cn/vitepress/
+    - theme: alt
+      text: View on GitHub
+      link: https://github.com/vuejs/vitepress
+
+features:
+  - icon: ⚡️
+    title: Vite, The DX that can't be beat
+    details: Lorem ipsum...
+  - icon: 🖖
+    title: Power of Vue meets Markdown
+    details: Lorem ipsum...
+  - icon: 🛠️
+    title: Simple and minimal, always
+    details: Lorem ipsum...
+---
